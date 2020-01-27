@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/emain-request/static/css/main.d1b05096.chunk.css",
+    "main.js": "/emain-request/static/js/main.811ac771.chunk.js",
+    "main.js.map": "/emain-request/static/js/main.811ac771.chunk.js.map",
+    "runtime-main.js": "/emain-request/static/js/runtime-main.4d682825.js",
+    "runtime-main.js.map": "/emain-request/static/js/runtime-main.4d682825.js.map",
+    "static/js/2.1c81bf9c.chunk.js": "/emain-request/static/js/2.1c81bf9c.chunk.js",
+    "static/js/2.1c81bf9c.chunk.js.map": "/emain-request/static/js/2.1c81bf9c.chunk.js.map",
+    "index.html": "/emain-request/index.html",
+    "precache-manifest.b5a09fb2979315acdfd95d2310bd0ed8.js": "/emain-request/precache-manifest.b5a09fb2979315acdfd95d2310bd0ed8.js",
+    "service-worker.js": "/emain-request/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/emain-request/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.1c81bf9c.chunk.js.LICENSE": "/emain-request/static/js/2.1c81bf9c.chunk.js.LICENSE",
+    "static/media/logo.svg": "/emain-request/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d682825.js",
+    "static/js/2.1c81bf9c.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.811ac771.chunk.js"
+  ]
+}
